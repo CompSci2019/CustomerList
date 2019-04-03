@@ -1,0 +1,26 @@
+Customer#1's information is: 
+Name: John Smith
+Address: 123 Main St.
+City: Ottawa
+Province: Ontario
+Postal Code: A7D3H8
+------------------------------------------
+Customer#1's information is: 
+Name: gfd
+Address: gfd
+City: gfd
+Province: gfd
+Postal Code: P7G1C4
+------------------------------------------
+Name: Charlie
+Address: 21 Meyer Dr.
+City: Guelph
+Province: Ontario
+Postal Code: N1E4H1
+------------------------------------------
+Name: Sean
+Address: Luo
+City: Guelph
+Province: Ontario
+Postal Code: N1E4H1
+------------------------------------------
